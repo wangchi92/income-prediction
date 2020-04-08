@@ -1,0 +1,6 @@
+# task instructions
+*.docx
+*.doc
+
+# Jupyter
+.ipynb_checkpoints
